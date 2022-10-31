@@ -12,7 +12,7 @@ object Dependencies {
         const val browser = "androidx.browser:browser:$androidxVersion"
         const val supportV4 = "androidx.legacy:legacy-support-v4:$androidxVersion"
         const val constraintLayout = "androidx.constraintlayout:constraintlayout:1.1.3"
-        const val crypto = "androidx.security:security-crypto:1.1.0-alpha03"
+        const val crypto = "androidx.security:security-crypto:1.1.0-alpha01"
         const val coreKtx = "androidx.core:core-ktx:1.3.0"
     }
 
